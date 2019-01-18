@@ -1,0 +1,17 @@
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\bin\Debug\app.exe.config
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\bin\Debug\app.exe
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\bin\Debug\app.pdb
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\Beep.Beep.Dealership.Application.csprojAssemblyReference.cache
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\Beep.Beep.Dealership.App.Properties.Resources.resources
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\Beep.Beep.Dealership.Application.csproj.GenerateResource.cache
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\Beep.Beep.Dealership.Application.csproj.CoreCompileInputs.cache
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\Beep.Beep.Dealership.Application.csproj.CopyComplete
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\app.exe
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\app.pdb
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\Beep.Beep.Dealership.App.UI.Main.resources
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\Beep.Beep.Dealership.App.UI.Pages.Inventory.resources
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\obj\Debug\Beep.Beep.Dealership.App.UI.Pages.Login.resources
+C:\Users\ezeah\source\repos\Beep.Beep.Dealership.Application\Beep.Beep.Dealership.Application\bin\Debug\MetroFramework.dll
